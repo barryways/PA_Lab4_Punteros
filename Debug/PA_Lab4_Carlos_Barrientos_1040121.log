@@ -1,0 +1,5 @@
+﻿  PA_Lab4_Carlos_Barrientos_1040121.cpp
+E:\Carlos\source\repos\Programacion Avanzada\PA_Lab4_Carlos_Barrientos_1040121\PA_Lab4_Carlos_Barrientos_1040121.cpp(44,16): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+E:\Carlos\source\repos\Programacion Avanzada\PA_Lab4_Carlos_Barrientos_1040121\PA_Lab4_Carlos_Barrientos_1040121.cpp(21): warning C4715: 'probabilidadesTabla::probabilidadMovimientoTortuga': not all control paths return a value
+E:\Carlos\source\repos\Programacion Avanzada\PA_Lab4_Carlos_Barrientos_1040121\PA_Lab4_Carlos_Barrientos_1040121.cpp(39): warning C4715: 'probabilidadesTabla::probabilidadMovimientoLiebre': not all control paths return a value
+  PA_Lab4_Carlos_Barrientos_1040121.vcxproj -> E:\Carlos\source\repos\Programacion Avanzada\PA_Lab4_Carlos_Barrientos_1040121\Debug\PA_Lab4_Carlos_Barrientos_1040121.exe
